@@ -9,3 +9,9 @@ La intención es el elegir el servidor que funcione de forma optima de forma que
 Maquina Virtual
 ---------------
 Usaremos vmware para controlar las maquinas virtuales. Instalamos Ubuntu Server 12.04 con la configuración por defecto, sin instalar motor grafico ya que no lo necesitamos para la actividad que va a realizar el servidor y cuanto menos procesos procese la maquina virtuales mejores resultados nos dará el benchmark.
+
+Entre los paquetes adicionales que instalamos a la maquina virtual señalamos: `apache`, `phpmyadmin`, `unzip` y `ssh`.
+
+- Base de datos
+Para que nos funcione phpmyadmin debemos realizar los dos siguientes comandos:
+![captura1](https://dl.dropbox.com/s/2g3nyxngt8rtsq3/conf_phpmyadmin.png)
