@@ -54,6 +54,12 @@ Ya esta lista la maquina virtual base, es decir, ya podemos hacer copias de esta
 -- Procesador: 1 nucleo
 -- RAM: 256MB
 
+<ul>
+<li type="circle">Esto es un tipo de punto.</li>
+<li type="square">Este es otro.</li>
+<li type="disc">Y este es otro diferente.</li>
+</ul>
+
 - 2º Configuración
 	
   Sistema Operativo: Ubuntu server 12.04
