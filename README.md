@@ -47,25 +47,20 @@ Configuraciones de maquinas virtuales
 -------------------------------------
 
 Ya esta lista la maquina virtual base, es decir, ya podemos hacer copias de esta maquina virtual cambiando especificaciónes y de esta forma estudiar como se comporta mejor o peor. Realizaremos 5 maquinas virtuales:
+<dl>
+<dt>- 1º Configuración</dt>
+<dd>Sistema Operativo: Ubuntu server 12.04</dd>
+<dd>Kernel: Linux 3.2.0-29-generic-pae i686</dd> 
+<dd>Procesador: 1 nucleo</dd>
+<dd>RAM: 256MB</dd>
 
-- 1º Configuración
--- Sistema Operativo: Ubuntu server 12.04
--- Kernel: Linux 3.2.0-29-generic-pae i686 
--- Procesador: 1 nucleo
--- RAM: 256MB
-
-<ul>
-<li type="circle">Esto es un tipo de punto.</li>
-<li type="square">Este es otro.</li>
-<li type="disc">Y este es otro diferente.</li>
-</ul>
-
-- 2º Configuración
-	
-  Sistema Operativo: Ubuntu server 12.04
-	Kernel: Linux 3.2.0-29-generic-pae i686 
-	Procesador: 1 nucleo
-	RAM: 1024MB
+<dl>
+<dt>- 2º Configuración</dt>
+<dd>Sistema Operativo: Ubuntu server 12.04</dd>
+<dd>Kernel: Linux 3.2.0-29-generic-pae i686</dd> 
+<dd>Procesador: 1 nucleo</dd>
+<dd>RAM: 1024MB</dd>
+</dl>
 
 - 3º Configuración
 
