@@ -53,7 +53,6 @@ Ya esta lista la maquina virtual base, es decir, ya podemos hacer copias de esta
 <dd>Kernel: Linux 3.2.0-29-generic-pae i686</dd> 
 <dd>Procesador: 1 nucleo</dd>
 <dd>RAM: 256MB</dd>
-
 <dl>
 <dt>- 2º Configuración</dt>
 <dd>Sistema Operativo: Ubuntu server 12.04</dd>
@@ -61,24 +60,24 @@ Ya esta lista la maquina virtual base, es decir, ya podemos hacer copias de esta
 <dd>Procesador: 1 nucleo</dd>
 <dd>RAM: 1024MB</dd>
 </dl>
-
-- 3º Configuración
-
-	Sistema Operativo: Ubuntu server 12.04
-	Kernel: Linux 3.2.0-29-generic-pae i686 
-	Procesador: 1 nucleo
-	RAM: 2048MB
-
-- 4º Configuración
-
-	Sistema Operativo: Ubuntu server 12.04
-	Kernel: Linux 3.2.0-29-generic-pae i686 
-	Procesador: 2 nucleo
-	RAM: 1024MB
-
-- 5º Configuración
-
-	Sistema Operativo: Ubuntu server 12.04
-	Kernel: Linux 3.2.0-29-generic-pae i686 
-	Procesador: 2 nucleo
-	RAM: 2048MB
+<dl>
+<dt>- 3º Configuración</dt>
+<dd>Sistema Operativo: Ubuntu server 12.04</dd>
+<dd>Kernel: Linux 3.2.0-29-generic-pae i686</dd> 
+<dd>Procesador: 1 nucleo</dd>
+<dd>RAM: 2048MB</dd>
+</dl>
+<dl>
+<dt>- 4º Configuración</dt>
+<dd>Sistema Operativo: Ubuntu server 12.04</dd>
+<dd>Kernel: Linux 3.2.0-29-generic-pae i686</dd> 
+<dd>Procesador: 2 nucleo</dd>
+<dd>RAM: 1024MB</dd>
+</dl>
+<dl>
+<dt>- 5º Configuración</dt>
+<dd>Sistema Operativo: Ubuntu server 12.04</dd>
+<dd>Kernel: Linux 3.2.0-29-generic-pae i686 </dd>
+<dd>Procesador: 2 nucleo</dd>
+<dd>RAM: 2048MB</dd>
+</dl>
