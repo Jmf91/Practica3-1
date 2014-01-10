@@ -23,7 +23,7 @@ Con eso ya podremos acceder al panel de control de phpmyadmin entrando en la dir
 
 Usaremos scp para copiar los archivos (html, xls, css, php, inc) de la aplicación web en la maquina virtual. Lo copiamos como comprimido por comodida de realizar una unica transferencia tal como muestra la imagen:
 
-!(captura2)(https://dl.dropbox.com/s/47nusk7e0w36mmr/scp.png)
+![captura2](https://dl.dropbox.com/s/47nusk7e0w36mmr/scp.png)
 
 Descomprimimos:
 
@@ -41,7 +41,7 @@ sudo cp -r periodico /var/www
 
 Ahora si accedemos a la dirección de nuestra maquina virtual desde el navegador de nuestra maquina local podemos observar que ya tenemos montada nuestra web del periódico
 
-!(captura3)(https://dl.dropbox.com/s/nj3e1d4kz7bd15m/periodico.png)
+![captura3](https://dl.dropbox.com/s/nj3e1d4kz7bd15m/periodico.png)
 
 Configuraciones de maquinas virtuales
 -------------------------------------
@@ -49,11 +49,10 @@ Configuraciones de maquinas virtuales
 Ya esta lista la maquina virtual base, es decir, ya podemos hacer copias de esta maquina virtual cambiando especificaciónes y de esta forma estudiar como se comporta mejor o peor. Realizaremos 5 maquinas virtuales:
 
 - 1º Configuración
-
-	Sistema Operativo: Ubuntu server 12.04
-	Kernel: Linux 3.2.0-29-generic-pae i686 
-	Procesador: 1 nucleo
-	RAM: 256MB
+-- Sistema Operativo: Ubuntu server 12.04
+-- Kernel: Linux 3.2.0-29-generic-pae i686 
+-- Procesador: 1 nucleo
+-- RAM: 256MB
 
 - 2º Configuración
 	
