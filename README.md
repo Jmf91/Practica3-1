@@ -330,7 +330,7 @@ Gráfica  de Tiempo de Respuesta:
 
 Gráfica  de Velocidad de Transferencia:
 
-![captura4](https://www.dropbox.com/s/d4ac5fbsjyqtome/grafica_velocidad.png)
+![captura5](https://www.dropbox.com/s/d4ac5fbsjyqtome/grafica_velocidad.png)
 
 Conclusiones
 ------------
