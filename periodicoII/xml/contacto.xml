@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacto>
+	<nombre>Francisco Valverde Villalba</nombre>
+	<direccion>C/Necora 7, Granada</direccion>
+	<correo>franvalverde@correo.ugr.es</correo>
+	<telefono>620361126</telefono>
+	<actualizacion>15 de junio de 2013</actualizacion>
+	<version>2.0.1</version>
+</contacto>
