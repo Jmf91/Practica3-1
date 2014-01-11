@@ -105,7 +105,6 @@ Vamos a marcar un umbral que nos indica que si los resultados están por encima 
 Para que los resultados sean fiables realizaremos tres benchmark por cada configuración y le aplicaremos la media, ese será el valor que se le otorgará a cada maquina virtual. Mediremos el tiempo de respuesta y la velocidad de transferencia obteniendo dos graficas con resultados.
 
 Esta es la tabla con los resultados:
-<p>&nbsp;</p>
 <table cellspacing="0" cellpadding="0">
   <col width="99" />
   <col width="140" />
@@ -180,7 +179,7 @@ Esta es la tabla con los resultados:
     <td align="right">3,435</td>
     <td align="right">3,443</td>
     <td align="right">4,229333333</td>
-    <td>m/sec</td>
+    <td>seg</td>
   </tr>
   <tr>
     <td></td>
@@ -224,7 +223,7 @@ Esta es la tabla con los resultados:
     <td align="right">3,435</td>
     <td align="right">3,398</td>
     <td align="right">4,113</td>
-    <td>m/sec</td>
+    <td>seg</td>
   </tr>
   <tr>
     <td></td>
@@ -268,7 +267,7 @@ Esta es la tabla con los resultados:
     <td align="right">2,08</td>
     <td align="right">4,799</td>
     <td align="right">2,996</td>
-    <td>m/sec</td>
+    <td>seg</td>
   </tr>
   <tr>
     <td></td>
@@ -312,7 +311,7 @@ Esta es la tabla con los resultados:
     <td align="right">2,045</td>
     <td align="right">2,115</td>
     <td align="right">2,032666667</td>
-    <td>m/sec</td>
+    <td>seg</td>
   </tr>
   <tr>
     <td></td>
@@ -324,3 +323,17 @@ Esta es la tabla con los resultados:
     <td>Kbytes/sec</td>
   </tr>
 </table>
+
+Gráfica  de Tiempo de Respuesta:
+
+![captura4](https://dl.dropbox.com/s/w6ne9emnchsigho/grafica_tiempos.png)
+
+Gráfica  de Velocidad de Transferencia:
+
+![captura4](https://www.dropbox.com/s/d4ac5fbsjyqtome/grafica_velocidad.png)
+
+Conclusiones
+------------
+
+Observando los resultados y las gráficas nos declinamos por la configuración 4 ya esta por debajo del umbral en la gráfica de tiempo de respuesta y por encima en el umbral de la gráfica de velocidad de transferencia. Y a pesar de que la configuración 5 también lo esta, no es una buena elección ya que es una maquina muy potente para las acciones que va a realizar y no se aprecia gran mejoría con respecto a la configuración 4.
+
