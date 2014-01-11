@@ -104,3 +104,223 @@ Vamos a marcar un umbral que nos indica que si los resultados están por encima 
 
 Para que los resultados sean fiables realizaremos tres benchmark por cada configuración y le aplicaremos la media, ese será el valor que se le otorgará a cada maquina virtual. Mediremos el tiempo de respuesta y la velocidad de transferencia obteniendo dos graficas con resultados.
 
+Esta es la tabla con los resultados:
+<p>&nbsp;</p>
+<table cellspacing="0" cellpadding="0">
+  <col width="99" />
+  <col width="140" />
+  <col width="65" span="3" />
+  <col width="65" />
+  <col width="65" />
+  <tr>
+    <td colspan="2" width="239">1º configuracion 256MB</td>
+    <td width="65"></td>
+    <td width="65"></td>
+    <td width="65"></td>
+    <td width="65"></td>
+    <td width="65"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Prueba 1</td>
+    <td>Prueba 2</td>
+    <td>Prueba 3</td>
+    <td>MEDIA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Tiempo de Respuesta</td>
+    <td align="right">7,852</td>
+    <td align="right">9,261</td>
+    <td align="right">3,409</td>
+    <td align="right">6,840666667</td>
+    <td>seg</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Velocidad de Transferencia</td>
+    <td align="right">958,52</td>
+    <td align="right">814,35</td>
+    <td align="right">2216,92</td>
+    <td align="right">1329,93</td>
+    <td>Kbytes/sec</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">2º   configuracion 1024MB</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Prueba 1</td>
+    <td>Prueba 2</td>
+    <td>Prueba 3</td>
+    <td>MEDIA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Tiempo de Respuesta</td>
+    <td align="right">5,81</td>
+    <td align="right">3,435</td>
+    <td align="right">3,443</td>
+    <td align="right">4,229333333</td>
+    <td>m/sec</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Velocidad de Transferencia</td>
+    <td align="right">1298,07</td>
+    <td align="right">2199,67</td>
+    <td align="right">2193,1</td>
+    <td align="right">1896,946667</td>
+    <td>Kbytes/sec</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">3º   configuracion 1 nucleos 2048MB</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Prueba 1</td>
+    <td>Prueba 2</td>
+    <td>Prueba 3</td>
+    <td>MEDIA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Tiempo de Respuesta</td>
+    <td align="right">5,506</td>
+    <td align="right">3,435</td>
+    <td align="right">3,398</td>
+    <td align="right">4,113</td>
+    <td>m/sec</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Velocidad de Transferencia</td>
+    <td align="right">1554,24</td>
+    <td align="right">2195,31</td>
+    <td align="right">2219,12</td>
+    <td align="right">1989,556667</td>
+    <td>Kbytes/sec</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">4º   configuracion 2 nucleos 1024MB</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Prueba 1</td>
+    <td>Prueba 2</td>
+    <td>Prueba 3</td>
+    <td>MEDIA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Tiempo de Respuesta</td>
+    <td align="right">2,109</td>
+    <td align="right">2,08</td>
+    <td align="right">4,799</td>
+    <td align="right">2,996</td>
+    <td>m/sec</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Velocidad de Transferencia</td>
+    <td align="right">3576,6</td>
+    <td align="right">3625,99</td>
+    <td align="right">1573,12</td>
+    <td align="right">2925,236667</td>
+    <td>Kbytes/sec</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">5º   configuracion 2 nucleos 2048MB</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Prueba 1</td>
+    <td>Prueba 2</td>
+    <td>Prueba 3</td>
+    <td>MEDIA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Tiempo de Respuesta</td>
+    <td align="right">1,938</td>
+    <td align="right">2,045</td>
+    <td align="right">2,115</td>
+    <td align="right">2,032666667</td>
+    <td>m/sec</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Velocidad de Transferencia</td>
+    <td align="right">3892,36</td>
+    <td align="right">3687,7</td>
+    <td align="right">3531,1</td>
+    <td align="right">3703,72</td>
+    <td>Kbytes/sec</td>
+  </tr>
+</table>
