@@ -1,5 +1,7 @@
 Practica3
 =========
+<center>Francisco Valverde Villalba<br>
+Licencia GNU GENERAL PUBLIC LICENSE Version 3</center>
 
 Introducción
 ------------
